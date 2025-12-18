@@ -1,0 +1,7 @@
+new Chart(salesBar,{type:'bar',data:{labels:['Jan','Feb','Mar','Apr','May'],datasets:[{data:[40,55,48,70,60]}]}})
+new Chart(salesLine,{type:'line',data:{labels:['Jan','Feb','Mar','Apr','May'],datasets:[{data:[40,55,48,70,60]}]}})
+new Chart(revenueChart,{type:'line',data:{labels:['2019','2020','2021','2022','2023'],datasets:[{data:[200,280,350,480,620]}]}})
+new Chart(categoryPie,{type:'pie',data:{labels:['Electronics','Clothing','Grocery'],datasets:[{data:[45,30,25]}]}})
+new Chart(categoryDoughnut,{type:'doughnut',data:{labels:['Online','Offline'],datasets:[{data:[65,35]}]}})
+new Chart(regionBar,{type:'bar',data:{labels:['North','South','East','West'],datasets:[{data:[120,90,70,60]}]}})
+new Chart(profitChart,{type:'bar',data:{labels:['Q1','Q2','Q3','Q4'],datasets:[{data:[30,45,35,50]}]}})
